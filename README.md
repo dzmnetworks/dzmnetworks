@@ -9,6 +9,11 @@
 • DSL and T1 Installation • WIFI access point installation 
 • Computer room rack and servers’ installation
 Cat5 cat6 and fiber installation services. Switches firewall and router installation and configuration.
+• Cisco Switches router
+• Netgate Firewall
+• Cloud Services 
+• VMWare
+• Cisco network routing (OSPF, IGRP)
 
 ### Hi there 👋
 <!--
